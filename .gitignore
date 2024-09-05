@@ -1,0 +1,25 @@
+# Maven
+target/
+
+# IDE-specific files
+*.iml
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled Java class files
+*.class
+
+# Application-specific
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.tmp
