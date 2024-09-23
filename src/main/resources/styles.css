@@ -7,6 +7,18 @@
   -fx-text-fill: #333;
 }
 
+.text-field {
+  -fx-font-size: 14px; 
+  -fx-padding: 5px; 
+  -fx-background-color: #ffffff; 
+  -fx-border-color: #ccc;
+  -fx-border-radius: 5px;
+}
+
+.text-field:focused {
+  -fx-border-color: #007bff;
+}
+
 .button {
   -fx-background-color: #007bff;
   -fx-text-fill: white;
