@@ -1,6 +1,7 @@
 # Weather App
 
 This JavaFX-based weather application allows users to input latitude and longitude to fetch and display weather data.
+The data is fetched from the Open-Meteo weather API.
 
 ## Features
 - Input latitude and longitude to get weather data for specific locations.
